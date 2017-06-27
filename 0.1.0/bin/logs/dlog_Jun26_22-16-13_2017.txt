@@ -1,0 +1,3 @@
+[config:143]  [{{assets/ audio/ images/ font/} { ERROR} {480 640} {none 12 72 luxisr.ttf white} 60 60 true English Agent Blue}] 
+[rng:42]  Oak seed: 1498533373269143900 
+[load:105]  [Unsupported file ending for batchLoad:  plastic_sfx_work.bfxrlibrary] 

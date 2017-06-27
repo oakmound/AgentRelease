@@ -1,7 +1,10 @@
 -------------------------------------------
-###Agent Blue Changelog
-##Current Version: 0.0.2
+## Agent Blue Changelog
+
+### Current Version: 0.0.2
+
 See http://oakmound.blogspot.com/ for more information
+
 -------------------------------------------
 
 --------------
